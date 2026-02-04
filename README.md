@@ -3,6 +3,8 @@
 <p align="left">
 <a href="https://arxiv.org/abs/2503.21483" alt="arXiv">
     <img src="https://img.shields.io/badge/arXiv-2503.21483-b31b1b.svg?style=flat" /></a>
+<a href="https://huggingface.co/datasets/sming256/BOLT_data" alt="data">
+    <img src="https://img.shields.io/badge/Data-HuggingFace-yellow.svg" /></a>
 </p>
 
 This is the official implementation of the paper [BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding](https://arxiv.org/abs/2503.21483), which is accepted by CVPR2025.
