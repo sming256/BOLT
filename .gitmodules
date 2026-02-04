@@ -1,0 +1,6 @@
+[submodule "third_party/lmms-eval"]
+	path = third_party/lmms-eval
+	url = https://github.com/sming256/lmms-eval.git
+[submodule "third_party/LLaVA-NeXT"]
+	path = third_party/LLaVA-NeXT
+	url = https://github.com/sming256/LLaVA-NeXT.git
