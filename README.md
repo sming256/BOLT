@@ -29,7 +29,7 @@ conda create -n bolt python=3.12
 conda activate bolt
 
 # Clone the repository with submodules
-git clone --recurse-submodules https://github.com/your-username/BOLT.git
+git clone --recurse-submodules https://github.com/sming256/BOLT.git
 cd BOLT
 
 # Install dependencies
